@@ -11,3 +11,7 @@ int i = 0;
 for (i=0;i<10;i++)
   printf("bullshit %i",i);
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
